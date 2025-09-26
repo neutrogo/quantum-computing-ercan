@@ -13,8 +13,7 @@ Most of the work here is based on:
 - Gain practical skills in **quantum circuits, algorithms, and state visualisation with Qiskit**
 - Build a solid foundation for **future research in quantum computing**
 
-## Structure (to be expanded)
+## Structure
 - `notebooks/` – Jupyter notebooks documenting concepts and experiments
-- `resources/` – References, notes, and diagrams
 
 > This repository is a work-in-progress and will evolve as I deepen my understanding of quantum computing.
