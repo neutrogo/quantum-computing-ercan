@@ -16,4 +16,6 @@ Most of the work here is based on:
 ## Structure
 - `notebooks/` – Jupyter notebooks documenting concepts and experiments
 
+Please note: to run these notebooks on actual quantum computers, you will need to code the setup yourself locally, using your respective API token.
+
 > This repository is a work-in-progress and will evolve as I deepen my understanding of quantum computing.
